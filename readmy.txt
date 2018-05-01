@@ -2,3 +2,16 @@
 4
 
 develop
+
+
+git status
+git log
+git diff readmy.txt
+git branch
+git branch develop
+
+
+git add readmy.txt
+git commit -m "blabla"
+git commit -am "added something new"
+git checkout -b feautre/new-feature
